@@ -1,1 +1,39 @@
+# Ads.txt Medya Etkisi
+
+appnexus.com, 7823, DOĞRUDAN, f5ab79cb980f11d1
 google.com, pub-8645022399038465, DIRECT, f08c47fec0942fa0
+teads.tv, 5632, BAYİ, 15a9c44f6d26cbe1
+teads.tv, 8674, BAYİ, 15a9c44f6d26cbe1
+yieldlab.net, 453.131, DOĞRUDAN
+yieldlab.net, 227.224, BAYİ
+aps.amazon.com, 3135, DOĞRUDAN #ekran
+aps.amazon.com, 3135, DOĞRUDAN #video
+openx.com, 539948074, DOĞRUDAN, 6a698e2ec38604c6
+openx.com, 540038340, DOĞRUDAN, 6a698e2ec38604c6
+smartadserver.com, 251, DOĞRUDAN
+smartadserver.com, 3571, DOĞRUDAN
+pubmatic.com, 157222, DOĞRUDAN
+pubmatic.com, 156678, DOĞRUDAN
+indexexchange.com, 188480, DOĞRUDAN
+indexexchange.com, 188479, DOĞRUDAN
+rubiconproject.com, 19248, DOĞRUDAN, 0bfd66d529a55807
+rubiconproject.com, 10113, DOĞRUDAN, 0bfd66d529a55807
+triplelift.com, 5791-EB, DOĞRUDAN, 6c33edb13117fd86
+triplelift.com, 5791, DOĞRUDAN, 6c33edb13117fd86
+districtm.io, 101940, DOĞRUDAN, 3fd707be9c4527c3
+smaato.com, 1100004890, DOĞRUDAN, 07bcf65f187117b4
+
+smartclip.net, 8225, DOĞRUDAN #IPD
+smartclip.net, 11333, SATICI #smartclip IPA
+google.com, pub-3057818873023700, SATICI #Goldbach CH
+appnexus.com, 3741, SATICI # Goldbach Appnexus
+appnexus.com, 9242, SATICI # Goldbach Appnexus
+spotxchange.com, 267169, DOĞRUDAN, 7842df1d2fe2db34 #RTL AdConnect
+spotx.tv, 267169, DOĞRUDAN, 7842df1d2fe2db34 #RTL AdConnect
+
+givelab.net, 2172218, BAYİ
+smartstream.tv, 4135, BAYİ
+smartstream.tv, 4137, BAYİ
+smartstream.tv, 4133, BAYİ
+smartstream.tv, 4747, BAYİ
+smartstream.tv, 4371, BAYİ

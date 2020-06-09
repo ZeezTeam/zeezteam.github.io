@@ -1,1 +1,70 @@
 google.com, pub-8645022399038465, DIRECT, f08c47fec0942fa0
+google.com, pub-2402925928840925, DOĞRUDAN, f088c47fec942fa0
+google.com, pub-1281508885632778, DOĞRUDAN, f088c47fec942fa0
+tappx.com, 28719, DOĞRUDAN, 9f375a07da0318ec
+adcolony.com, 1ad675c9de6b5176, SATICI, c490f6e7399a25d6
+admanmedia.com, 8, BAYİ
+admixer.net, 2e1cb1ea-814c-476a-8627-d474e41378df, SATICI
+adview.com, 87303937, SATICI
+appnexus.com, 10824, SATICI
+appnexus.com, 9569, BAYİ
+districtm.io, 101649, SATICI, 3fd707be9c4527c3
+google.com, pub-9685734445476814, SATICI, f08c47fec0942fa0
+groundtruth.com, 107, SATICI, 81cbf0a75a5e0e9a
+pubmatic.com, 156435, BAYİ, 5d62403b186f2ace
+pubmatic.com, 158111, SATICI, 5d62403b186f2ace
+pubmatic.com, 158112, BAYİ, 5d62403b186f2ace
+pubmatic.com, 92509, SATICI, 5d62403b186f2ace
+rubiconproject.com, 13856, SATICI, 0bfd66d529a55807
+smartadserver.com, 1692, SATICI
+telaria.com, s92od-u4sw5, SATICI, 1a4e959a1b50034a
+tremorhub.com, s92od-u4sw5, SATICI, 1a4e959a1b50034a
+appnext.com, 1040692, DOĞRUDAN
+startapp.com, 109252492, DOĞRUDAN
+pubmatic.com, 157559, BAYİ, 5d62403b186f2ace
+admanmedia.com, 13, BAYİ
+yahoo.com, 1510636, SATICI
+motionspots.com, a9M6CaTvK59AJxF6R, SATICI, f0220652b4aaebdc
+aol.com, 50987, SATICI
+pubmatic.com, 157113, SATICI, 5d62403b186f2ace
+gothamads.com, 419, DOĞRUDAN
+gothamads.com, 425, DOĞRUDAN
+OmniJay.com, 114, BAYİ
+lkqd.net, 408, SATICI, 59c49fa9598a0117
+springserve.com, 672, DOĞRUDAN, a24eb641fc82e93d
+Advertising.com, 22021, BAYİ
+advertisement.com, 26908, BAYİ
+advertisement.com, 26282, BAYİ
+Advertising.com, 27869, BAYİ
+contextweb.com, 561198, SATICI, 89ff185a4c4e857c
+contextweb.com, 561910, SATICI, 89ff185a4c4e857c
+contextweb.com, 561923, SATICI, 89ff185a4c4e857c
+google.com, pub-6691188272946638, DOĞRUDAN, f088c47fec942fa0
+beachfront.com, 5472, SATICI, e2541279e8e2ca4d
+spotxchange.com, 239904, SATICI, 7842df1d2fe2db34
+spotx.tv, 239904, SATICI, 7842df1d2fe2db34
+advertisement.com, 28210, BAYİ
+mopub.com, fbb8872617c74e5e8baa71ac3abd05dd, DOĞRUDAN, 74b46c0ea83967ca
+adcolony.com, e0355e23aa56b4c34dacf5ece1c237bc, SATICI, 1ad675c9de6b5176
+Axonix.com, 56266, SATICI
+ironsrc.com, 211945, SATICI, 79929e88b2ba73bc
+mintegral.com, 12101, SATICI
+mobfox.com, 44666, SATICI
+Orange.fr, pub-1467174215800884, SATICI
+smartadserver.com, 1289, SATICI
+smartadserver.com, 3042, SATICI
+tapjoy.com, a92a273e84854428a4d61a1867f58639, SATICI, 29e595b1aeb5904d
+unity3d.com, 1019584, SATICI
+chartboost.com, 56e9877ff789823ee2a7e98f, SATICI
+appnexus.com, 10005, SATICI, f5ab79cb980f11d1
+indexexchange.com, 185578, SATICI, 50b1c356f2c5c8fc
+lkqd.net, 459, SATICI, 59c49fa9598a0117
+openx.com, 540338069, SATICI, 6a698e2ec38604c6
+rubiconproject.com, 16834, SATICI, 0bfd66d529a55807
+Vungle.com, 56f167bda94d7ae44a000103, SATICI, c107d686becd2d77
+Openx.com, 540280728, SATICI, 6a698e2ec38604c6
+Appnexus.com, 10128, SATICI, f5ab79cb980f11d1
+Indexexchange.com, 185774, SATICI, 50b1c356f2c5c8fc
+Inmobi.com, 2e0484e00bf84f35b133019004ef76a4, SATICI, 83e75a7ae333ca9d
+Loopme.com, S-2411, SATICI, 6c8d5f95897a5a3b
+Loopme.com, 10999, SATICI, 6c8d5f95897a5a3b
